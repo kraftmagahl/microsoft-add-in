@@ -427,6 +427,6 @@
         //http.setRequestHeader("Content-type", "text/plain"); 
         http.open("GET", "https://f8e9fa35212d.ngrok.io/api/json/" + titolo, true);
         http.send(null);
-        return res;
+        return "";
     }
 })();
