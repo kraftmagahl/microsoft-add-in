@@ -1,0 +1,2 @@
+C:\Users\Kraftmagahl\source\repos\prova\prova\obj\Debug\prova.csprojAssemblyReference.cache
+C:\Users\Kraftmagahl\source\repos\prova\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
